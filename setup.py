@@ -26,5 +26,5 @@ setup_kwargs['install_requires'] = requirements
 
 setup(**setup_kwargs)
 
-print(u"\n\n\t\t    "
-      "GitterPy version {} installation succeeded.\n".format(version))
+print(("\n\n\t\t    "
+      "GitterPy version {} installation succeeded.\n".format(version)))
